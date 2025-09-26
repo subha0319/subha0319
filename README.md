@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 I'm a passionate and results-driven Software Engineer who loves transforming complex challenges into elegant and efficient software solutions. I enjoy solving complex problems and optimizing solutions.
 
-### About Me
 
 * 💼 As a Software Engineer Intern at Ericsson, I contributed to core improvements in system reliability and deployment efficiency within the Secure Entitlement Server (SES) project.
 * 🌱 Driven by a passion for continuous learning and thriving on new challenges and mastering emerging technologies.
