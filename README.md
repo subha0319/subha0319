@@ -21,7 +21,7 @@ I'm a passionate and results-driven Software Engineer who loves transforming com
 * 💼 As a Software Engineer Intern at Ericsson, I contributed to core improvements in system reliability and deployment efficiency within the Secure Entitlement Server (SES) project.
 * 🌱 Driven by a passion for continuous learning and thriving on new challenges and mastering emerging technologies.
 
-### 💻 My Major Tech Stack
+### 💻 My Major Tech Stack and skills
 
 <p align="left">
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"></a>
