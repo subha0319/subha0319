@@ -56,7 +56,4 @@ I'm a passionate and results-driven Software Engineer who loves transforming com
   <a href="https://subhashini.my.canva.site" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-3B7EBF?style=for-the-badge&logo=rss&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://leetcode.com/u/subha0319" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode"/>
-  </a>
 </p>
